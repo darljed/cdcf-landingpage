@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* About */}
           <div>
-            <h3 className="font-serif text-2xl font-bold mb-4 text-secondary">CDC Church</h3>
+            <h3 className="font-serif text-2xl font-bold mb-4 text-secondary">CDCF Church</h3>
             <p className="text-primary-foreground/80 leading-relaxed">
               A place to belong and grow in faith, building a Christ-driven community 
               where love thrives and disciples are made.
@@ -77,7 +77,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/70">
-            © {currentYear} CDC Church. All rights reserved.
+            © {currentYear} CDCF Church. All rights reserved.
           </p>
           {/* <div className="flex gap-6 text-sm">
             <a href="#" className="text-primary-foreground/70 hover:text-secondary transition-colors">
