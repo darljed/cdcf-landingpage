@@ -37,11 +37,11 @@ const LocationVisit = () => {
                 </div>
                 <div className="flex justify-between items-center py-3 border-b border-border">
                   <span className="text-lg font-medium">Midweek Prayer</span>
-                  <span className="text-lg text-muted-foreground">Wed 6:00 PM</span>
+                  <span className="text-lg text-muted-foreground">Wed 7:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center py-3">
-                  <span className="text-lg font-medium">Youth Service</span>
-                  <span className="text-lg text-muted-foreground">Fri 7:00 PM</span>
+                  <span className="text-lg font-medium">Praise & Worship Practice</span>
+                  <span className="text-lg text-muted-foreground">Sat 6:00 PM</span>
                 </div>
               </div>
             </CardContent>
