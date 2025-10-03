@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <Image
           src="/hero-church.jpg"
-          alt="CDC Church Community"
+          alt="CDCF"
           fill
           className="object-cover"
           priority
